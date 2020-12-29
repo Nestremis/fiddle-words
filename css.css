@@ -59,8 +59,7 @@ body {
     background-color: orangered;
     position: absolute;
     bottom: 10px;
-    left: 50%;
-    margin-left: -40px;
+    right: 10px;
     text-align: center;
     height: 50px;
     opacity: 0.5;
